@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123313063146",
+    "project_id": "monasbah-d8f8f",
+    "storage_bucket": "monasbah-d8f8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123313063146:android:1889c9160267c362c88393",
+        "android_client_info": {
+          "package_name": "com.az.monasbah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNJ9BE0eDg_XDYrcNv4jHRxUWcch3dog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

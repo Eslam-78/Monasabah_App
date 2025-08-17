@@ -1,0 +1,8 @@
+<svg id="_edit" data-name=" edit" xmlns="http://www.w3.org/2000/svg" width="11.264" height="11.264" viewBox="0 0 11.264 11.264">
+  <g id="edit" transform="translate(0 0)">
+    <path id="Vector" d="M4.224,0H3.285C.939,0,0,.939,0,3.285V6.1C0,8.448.939,9.386,3.285,9.386H6.1c2.347,0,3.285-.939,3.285-3.285V5.163" transform="translate(0.939 0.939)" fill="none" stroke="#149f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" opacity="0.4"/>
+    <path id="Vector-2" data-name="Vector" d="M4.213.6l-3.7,3.7a1.273,1.273,0,0,0-.31.62L0,6.327a.668.668,0,0,0,.8.8l1.413-.2a1.314,1.314,0,0,0,.62-.31l3.7-3.7A1.426,1.426,0,0,0,6.531.6,1.426,1.426,0,0,0,4.213.6Z" transform="translate(3.315 0.821)" fill="none" stroke="#149f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0A3.353,3.353,0,0,0,2.318,2.318" transform="translate(6.998 1.948)" fill="none" stroke="#149f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" opacity="0.4"/>
+    <path id="Vector-4" data-name="Vector" d="M0,0H11.264V11.264H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>
